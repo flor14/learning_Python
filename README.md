@@ -1,5 +1,5 @@
 # Learning Python
-for "learnin R" https://github.com/data-datum/learning_R
+for "learning R" https://github.com/data-datum/learning_R
 
 ## Exploratory Data Analysis
 
