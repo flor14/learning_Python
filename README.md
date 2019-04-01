@@ -1,4 +1,5 @@
 # Learning Python
+for "learnin R" https://github.com/data-datum/learning_R
 
 ## Exploratory Data Analysis
 
