@@ -15,3 +15,6 @@ for "learning R" https://github.com/data-datum/learning_R
 ## Teaching Python
 
 * PythonSneks: An Open-Source, Instructionally-Designed Introductory Curriculum with Action-Design Research _Bart, Sarver, Friend, Cox II_ http://acbart.github.io/papers/acbart-sigcse19-sneks.pdf
+
+# Building interactive courses
+* Online course starter: Python _Ines Montani_ https://github.com/ines/course-starter-python
