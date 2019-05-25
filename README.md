@@ -16,6 +16,9 @@ for "learning R" https://github.com/data-datum/learning_R
 
 * PythonSneks: An Open-Source, Instructionally-Designed Introductory Curriculum with Action-Design Research _Bart, Sarver, Friend, Cox II_ http://acbart.github.io/papers/acbart-sigcse19-sneks.pdf
 
+## PCA
+* Reducción de dimensiones (español) https://github.com/idontdomath/datos-dimensionality-reduction
+
 ## Notebooks
 
 * Managing Messes in Computational Notebooks https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Managing_Exploratory_Messes_in_Computational_Notebooks-2.pdf
